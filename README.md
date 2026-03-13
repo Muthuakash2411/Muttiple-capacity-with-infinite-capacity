@@ -87,3 +87,4 @@ Waiting time in conveyor = 1.52 secs
 ```
 ## Result : 
 
+Thus,The Python Program is implemented and executed successfully.
